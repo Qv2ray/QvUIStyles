@@ -1,4 +1,4 @@
-QPalette{background:#FFFFFF;}*{outline:0px;color:#57595B;}
+QPalette,QWidget{background:#FFFFFF;}*{outline:0px;color:#57595B;}
 
 QWidget[form="true"],QLabel[frameShape="1"]{
 border:1px solid #B6B6B6;
